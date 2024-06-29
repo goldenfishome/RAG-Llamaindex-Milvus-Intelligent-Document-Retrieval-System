@@ -5,7 +5,7 @@ This repository builds a Retrieval-Augmented Generation (RAG) system using Llama
 
 A publicly available dataset downloaded from Kaggle, it includes ArXiv papers, news articles, or any large corpus of text documents.
 
-**milvus_connection.ipynb**
+`milvus_connection.ipynb`
 
 Preprocessing: Clean and preprocess the dataset to remove any noise and irrelevant information.
 insert processed data into milvus vector database.
@@ -18,7 +18,7 @@ Build RAG, and use LLM to get a RAG response.
 
 Streamlit web interface where users can input queries and view the retrieved results via RAG model.
 
-**llamaindex_app Folder**
+***llamaindex_app Folder***
 
 Build same application but with Llamaindex Framework
 
