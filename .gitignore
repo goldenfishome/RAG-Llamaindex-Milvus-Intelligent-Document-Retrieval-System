@@ -4,3 +4,4 @@ arxiv-metadata-oai-snapshot.json
 llamaindex_app/__pycache__/
 llamaindex_app/data/
 llamaindex_app/.DS_Store
+.DS_Store
